@@ -1,18 +1,22 @@
-# Exhibitor-Dashboard
-Version 1.0 Step-by-step instructions on how to implement the new dashboard
+# Exhibitor Dashboard
+**Version 1.0**
+Step-by-step instructions on how to implement the new dashboard
+
+----------
 
 ##Author
 Oñay Sheard (osheard@reedexpo.com)
 
 ##Usage
-
 Open the Translation Manager
-1. Log into the showsite and right-click on a page to view the options menu
-2. Select Manage Translations
-3. Select the scope to be the website level
-4. In the Pages tab you will be editing two translations
-  5. Pages > ExhibitorPortal > Copyright
-  6. Pages > ShowCoordinatorPortal > Copyright
+> **Steps:**
+
+> 1.Log into the showsite and right-click on a page to view the options menu
+> 2.Select Manage Translations
+> 3. Select the scope to be the website level
+> 4. In the Pages tab you will be editing the two translations titled:
+>   Pages > ExhibitorPortal > Copyright
+>   Pages > ShowCoordinatorPortal > Copyright
 
 ###Dashboard Edits
 1. Copy the code in the dist folder called Dashboard.html and paste into Pages > ExhibitorPortal > Copyright
