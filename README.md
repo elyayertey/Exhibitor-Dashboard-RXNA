@@ -26,10 +26,19 @@ http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dash
  ```html
 http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/
  ```
+ 
 3. Click Apply
 
 ###Show Coordinator Portal Edits
 1. Copy the code in the dist folder called SCPortal.html and paste into Pages > ShowCoordinatorPortal > Copyright
-2. Change the file path to point to the logo for the specific show in the following line: http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/square/SHOW-LOGO-HERE.png
-3. These images should be square. There is a resevoir of logos at this directory: http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/square/
+2. Change the file path to point to the logo for the specific show in the following line:
+ ```html
+http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/square/SHOW-LOGO-HERE.png
+ ```
+ 
+3. These images should be square. There is a resevoir of logos at this directory:
+ ```html
+http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/square/
+ ```
+ 
 4. Click Apply
