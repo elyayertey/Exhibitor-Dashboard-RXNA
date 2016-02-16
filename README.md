@@ -14,6 +14,8 @@ Open the Translation Manager
 >
 > 1. Log into the showsite and right-click on a page to view the options menu
 > 
+> 2. Select Manage Translations
+>
 > 3. Select the scope to be the website level
 > 
 > 4. In the Pages tab you will be editing the two translations titled:
