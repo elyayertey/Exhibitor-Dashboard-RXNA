@@ -40,6 +40,7 @@ Open the Translation Manager
 ###Show Coordinator Portal Edits
 
 >**Steps:**
+>
 1. Copy the code in the dist folder called SCPortal.html and paste into **Pages > ShowCoordinatorPortal > Copyright**
 >
 2. Change the file path to point to the logo for the specific show in the following line:
