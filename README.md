@@ -24,10 +24,10 @@ Open the Translation Manager
 
 >**Steps:**
 >
->1. Copy the code in the dist folder (also below) called Dashboard.html and paste into **Pages > ExhibitorPortal > Copyright**
+>1. Copy the code in the dist folder called Dashboard.html and paste into **Pages > ExhibitorPortal > Copyright**
 >
 >2. Change the file path to point to the logo for the specific show in the following line:
-
+>
 >3. The height for this image should not exceed 80px. There is a resevoir of logos at this directory:
 >`http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/`
 >
@@ -36,15 +36,16 @@ Open the Translation Manager
 
 
 ###Show Coordinator Portal Edits
+
+>**Steps:**
 1. Copy the code in the dist folder called SCPortal.html and paste into Pages > ShowCoordinatorPortal > Copyright
+>
 2. Change the file path to point to the logo for the specific show in the following line:
- ```html
-http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/square/SHOW-LOGO-HERE.png
- ```
- 
+>`http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/square/SHOW-LOGO-HERE.png`
+>
 3. These images should be square. There is a resevoir of logos at this directory:
  ```html
 http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/square/
  ```
- 
-4. Click Apply
+>
+>4. Click Apply
