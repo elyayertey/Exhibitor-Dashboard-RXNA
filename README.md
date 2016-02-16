@@ -46,8 +46,6 @@ Open the Translation Manager
 >`http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/square/SHOW-LOGO-HERE.png`
 >
 3. These images should be square. There is a resevoir of logos at this directory:
- ```html
-http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/square/
- ```
+>`http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/square/`
 >
 >4. Click Apply
