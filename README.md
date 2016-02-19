@@ -19,8 +19,9 @@ Open the Translation Manager
 > 3. Select the scope to be the website level
 > 
 > 4. In the Pages tab you will be editing the two translations titled:
->   `**Pages > ExhibitorPortal > Copyright**`
-> `**Pages > ShowCoordinatorPortal > Copyright**`
+>   **Pages > ExhibitorPortal > Copyright**
+>
+> **Pages > ShowCoordinatorPortal > Copyright**
 
 ###Dashboard Edits
 
