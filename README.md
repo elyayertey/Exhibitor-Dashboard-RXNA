@@ -19,14 +19,14 @@ Open the Translation Manager
 > 3. Select the scope to be the website level
 > 
 > 4. In the Pages tab you will be editing the two translations titled:
->   **Pages > ExhibitorPortal > Copyright**
-> **Pages > ShowCoordinatorPortal > Copyright**
+>   `**Pages > ExhibitorPortal > Copyright**`
+> `**Pages > ShowCoordinatorPortal > Copyright**`
 
 ###Dashboard Edits
 
 >**Steps:**
 >
->1. Copy the code in the dist folder called Dashboard.html and paste into **Pages > ExhibitorPortal > Copyright**
+>1. Copy the html called Dashboard.html and paste into **Pages > ExhibitorPortal > Copyright**
 >
 >2. Change the file path to point to the logo for the specific show in the following line:
 >`http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/header/`
@@ -41,7 +41,7 @@ Open the Translation Manager
 
 >**Steps:**
 >
-1. Copy the code in the dist folder called SCPortal.html and paste into **Pages > ShowCoordinatorPortal > Copyright**
+1. Copy the html called SCPortal.html and paste into **Pages > ShowCoordinatorPortal > Copyright**
 >
 2. Change the file path to point to the logo for the specific show in the following line:
 >`http://v2-novatest5.rxnova.com/RNA/RNA_v2Sandbox-5/_never-delete/_Exhibitor-Dashboard/_img/framework/show-logos/square/SHOW-LOGO-HERE.png`
